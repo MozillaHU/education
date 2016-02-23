@@ -11,7 +11,7 @@ After several several early invocations, the 2015 fall semester was
 the first year in which Mozilla was actively contributing to the success
 of the program. With support from the Mozilla Reps program, and under the
 guidance of Brian King the semester launched with the course being
-implemented at 4 different colleges and universities, coming close to 100
+implemented at 5 different colleges and universities, coming close to 100
 students picking up the course at the start of the semester.
 
 Krisztián Karóczkai, author and teacher of the course was not just
@@ -27,8 +27,8 @@ In the 2015/2016 fall semester from the 96 subscribed student
 application), some of those (28) already live in the Firefox Marketplace.
 
 Among the apps are some pretty well-received ones, such as [Snakey]
-([full list of submissions]). The program was [presented at various]
-conferences on education & edutech.
+([full list of submissions]). The program was [presented] at [various
+conferences] on education & edutech.
 
 
 # Mozilla Progressive Mobile WebApplication Development Course
@@ -72,5 +72,6 @@ towards the course, on both universities' & students' sides.
 
 [Snakey]: https://marketplace.firefox.com/app/snakey/
 [Hungarian educational conferences]: http://oktatastervezes2016.uni-eger.hu/hu/program/
-[presented at various]: https://twitter.com/meetoff/status/695932512103755776
+[presented]: https://www.youtube.com/watch?v=TCbyQBxDzrc&index=23&list=PLEcj-NxGCjMlRD9G-AtJ3_cwPc2At9A1P
+[various conferences]: https://twitter.com/meetoff/status/695932512103755776
 [full list of submissions]: https://bugzilla.mozilla.org/show_bug.cgi?id=1185379#c32
